@@ -19,7 +19,7 @@ export const Route = createFileRoute("/")({
         content:
           "Content Strategy and Content Storyteller for Premium beauty, skincare, fashion, travel and lifestyle brands. Editorial, feminine, cinematic.",
       },
-      { property: "og:title", content: "Monica Briceño — Content Stratedy" },
+      { property: "og:title", content: "Monica Briceño — Content Strategy" },
       {
         property: "og:description",
         content:
