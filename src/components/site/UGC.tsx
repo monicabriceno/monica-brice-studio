@@ -4,23 +4,23 @@ import u3 from "@/assets/ordinaryy.mp4";
 import u4 from "@/assets/maquillee.mp4";
 
 const clips = [
-  { src: u1, label: "Skincare Drop", brand: "BEAUTY CAMPAIGN" },
-  { src: u2, label: "Soft Rituals", brand: "SELF CARE STORY" },
-  { src: u3, label: "Slow Living", brand: "LIFESTYLE BRAND" },
-  { src: u4, label: "Hotel Diaries", brand: "HOSPITALITY" },
+  { src: u1, label: "Unboxing Edit", brand: "BEAUTY CAMPAIGN" },
+{ src: u2, label: "Product Drop", brand: "SKINCARE" },
+{ src: u3, label: "Ad Campaign", brand: "BEAUTY" },
+{ src: u4, label: "Glow Unboxing", brand: "BEAUTY CAMPAIGN" },
 ];
 
 export function UGC() {
   return (
-    <section id="ugc" className="gradient-cream py-28 md:py-40">
+    <section id="content" className="gradient-cream py-28 md:py-40">
       <div className="mx-auto max-w-7xl px-6 md:px-10">
         <div className="mb-16 max-w-2xl">
-          <p className="mb-4 text-[11px] uppercase tracking-luxe text-accent">✦ UGC Examples</p>
+        <p className="mb-4 text-[11px] uppercase tracking-luxe text-accent">✦ Content Creation</p>
           <h2 className="font-serif text-4xl text-foreground md:text-6xl">
-            Beauty & Self Wellness
+          Premium content for brands that mean it.
           </h2>
           <p className="mt-6 text-sm leading-relaxed text-muted-foreground md:text-base">
-            Skincare, beauty routines, self-care moments and authentic product storytelling.
+          From skincare campaigns to personal brands — content that elevates, connects,converts and grows.
          </p>
         </div>
 
@@ -38,7 +38,7 @@ export function UGC() {
                          loop
                          muted
                          playsInline
-                         preload="none"
+                        
                          className="h-full w-full object-cover transition-transform duration-1000 group-hover:scale-105"
                           />
                           ) : (

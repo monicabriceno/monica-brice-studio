@@ -1,26 +1,26 @@
-import u1 from "@/assets/islaa.mp4";
+import u1 from "@/assets/contenidoprami2.mp4";
 import u2 from "@/assets/dayinlifee.mp4";
-import u3 from "@/assets/lifestyle-2.jpg";
+import u3 from "@/assets/ferry.mp4";
 import u4 from "@/assets/marriottt.mp4";
 
 const clips = [
-  { src: u1, label: "Lifestyle Edit", brand: "EVERYDAY LUXURY" },
-  { src: u2, label: "Morning Ritual", brand: "BEAUTY RITUAL" },
-  { src: u3, label: "Slow Mornings", brand: "LIFESTYLE BRAND" },
-  { src: u4, label: "Luxury Stays", brand: "TRAVEL & HOSPITALITY" },
+  { src: u1, label: "On Camera", brand: "PERSONAL BRAND" },
+  { src: u2, label: "Daily Ritual", brand: "EVERYDAY LUXURY" },
+  { src: u3, label: "Toronto Diaries", brand: "TRAVEL" },
+  { src: u4, label: "Luxury Stays", brand: "HOSPITALITY" },
 ];
 
 export function UGC2() {
   return (
-    <section id="ugc" className="gradient-cream py-28 md:py-40">
+    <section id="Contetnt2" className="gradient-cream py-28 md:py-40">
       <div className="mx-auto max-w-7xl px-6 md:px-10">
         <div className="mb-16 max-w-2xl">
-          <p className="mb-4 text-[11px] uppercase tracking-luxe text-accent">✦ UGC Examples</p>
+          <p className="mb-4 text-[11px] uppercase tracking-luxe text-accent">✦ Content Creation</p>
           <h2 className="font-serif text-4xl text-foreground md:text-6xl">
-         Lifestyle, Travel & Leisure
+          Hotels, restaurants & luxury experiences.
          </h2>
           <p className="mt-6 text-sm leading-relaxed text-muted-foreground md:text-base">
-         Capturing everyday experiences, travel moments and lifestyle stories.
+          Cinematic content for hospitality brands, fine dining, and travel destinations that want to be remembered.
          </p>
         </div>
 

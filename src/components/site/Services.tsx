@@ -1,5 +1,5 @@
 const services = [
-  { n: "01", t: "UGC Videos", d: "Cinematic short-form content designed to convert and elevate." },
+  { n: "01", t: "Content Creation", d: "Cinematic short-form content designed to convert and elevate." },
   { n: "02", t: "Product Photography", d: "Editorial-grade stills with soft luxury lighting and composition." },
   { n: "03", t: "Brand Storytelling", d: "Narrative-led content that builds emotional brand equity." },
   { n: "04", t: "Creative Strategy", d: "Concept, mood, and campaign architecture from end to end." },

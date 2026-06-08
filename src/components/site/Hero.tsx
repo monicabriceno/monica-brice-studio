@@ -20,17 +20,17 @@ export function Hero() {
 
       <div className="relative mx-auto flex min-h-[100svh] max-w-7xl flex-col justify-end px-6 pb-24 pt-40 md:px-10 md:pb-28">
         <p className="mb-6 text-[11px] uppercase tracking-luxe text-foreground/70 animate-reveal">
-          Luxury UGC Creator · Beauty · Lifestyle
+        Content Producer · Toronto
         </p>
         <h1 className="max-w-3xl text-balance font-serif text-5xl leading-[1.02] text-foreground animate-reveal delay-100 md:text-7xl lg:text-[88px]">
-        Luxury storytelling for modern beauty brands.
+        Premium content. Real results.
 
         </h1>
         <p className="mt-8 max-w-xl text-base leading-relaxed text-muted-foreground animate-reveal delay-300 md:text-lg">
-          UGC <span className="mx-2 text-accent">·</span> Beauty
-          <span className="mx-2 text-accent">·</span> Skincare
-          <span className="mx-2 text-accent">·</span> Luxury Lifestyle
-          <span className="mx-2 text-accent">·</span> Travel
+        Beauty <span className="mx-2 text-accent">·</span> 
+        Lifestyle <span className="mx-2 text-accent">·</span> 
+        Hospitality <span className="mx-2 text-accent">·</span> 
+        Personal Brand
         </p>
         <div className="mt-10 flex flex-col gap-3 animate-reveal delay-500 sm:flex-row sm:items-center sm:gap-4">
           <a

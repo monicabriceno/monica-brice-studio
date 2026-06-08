@@ -13,13 +13,13 @@ import { WhatsAppFab } from "@/components/site/WhatsAppFab";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Monica Briceño — Luxury UGC Creator · Beauty · Lifestyle" },
+      { title: "Monica Briceño — Content Strategy· Personal Brand · Bussiness Growth" },
       {
         name: "description",
         content:
-          "Luxury UGC creator and content storyteller for premium beauty, skincare, fashion, travel and lifestyle brands. Editorial, feminine, cinematic.",
+          "Content Strategy and Content Storyteller for Premium beauty, skincare, fashion, travel and lifestyle brands. Editorial, feminine, cinematic.",
       },
-      { property: "og:title", content: "Monica Briceño — Luxury UGC Creator" },
+      { property: "og:title", content: "Monica Briceño — Content Stratedy" },
       {
         property: "og:description",
         content:
