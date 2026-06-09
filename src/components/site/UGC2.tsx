@@ -1,12 +1,12 @@
 import u1 from "@/assets/contenidoprami2.mp4";
-import u2 from "@/assets/dayinlifee.mp4";
-import u3 from "@/assets/ferry.mp4";
+import u2 from "@/assets/realstate.mp4";
+import u3 from "@/assets/lawfirm.mp4";
 import u4 from "@/assets/marriottt.mp4";
 
 const clips = [
   { src: u1, label: "On Camera", brand: "PERSONAL BRAND" },
-  { src: u2, label: "Daily Ritual", brand: "EVERYDAY LUXURY" },
-  { src: u3, label: "Toronto Diaries", brand: "TRAVEL" },
+  { src: u2, label: "Dream Spaces", brand: "REAL ESTATE" },
+  { src: u3, label: "Legal Edge", brand: "LAW & PROFESSIONAL" },
   { src: u4, label: "Luxury Stays", brand: "HOSPITALITY" },
 ];
 
@@ -17,10 +17,10 @@ export function UGC2() {
         <div className="mb-16 max-w-2xl">
           <p className="mb-4 text-[11px] uppercase tracking-luxe text-accent">✦ Content Creation</p>
           <h2 className="font-serif text-4xl text-foreground md:text-6xl">
-          Hotels, restaurants & luxury experiences.
+          Every industry. One story.
          </h2>
           <p className="mt-6 text-sm leading-relaxed text-muted-foreground md:text-base">
-          Cinematic content for hospitality brands, fine dining, and travel destinations that want to be remembered.
+          Cinematic content for brands that want to be remembered.
          </p>
         </div>
 

@@ -22,7 +22,7 @@ export function Portfolio() {
           <div>
             <p className="mb-4 text-[11px] uppercase tracking-luxe text-accent">✦ Selected Work</p>
             <h2 className="font-serif text-4xl text-foreground md:text-6xl">
-              An editorial <em className="italic">portfolio</em>.
+              <em className="italic">Portfolio</em>.
             </h2>
           </div>
           <p className="max-w-sm text-sm leading-relaxed text-muted-foreground">

@@ -17,10 +17,10 @@ export function UGC() {
         <div className="mb-16 max-w-2xl">
         <p className="mb-4 text-[11px] uppercase tracking-luxe text-accent">✦ Content Creation</p>
           <h2 className="font-serif text-4xl text-foreground md:text-6xl">
-          Premium content for brands that mean it.
+          Your product deserves to be seen.
           </h2>
           <p className="mt-6 text-sm leading-relaxed text-muted-foreground md:text-base">
-          From skincare campaigns to personal brands — content that elevates, connects,converts and grows.
+          Beauty content that stops the scroll and moves the sale.
          </p>
         </div>
 
